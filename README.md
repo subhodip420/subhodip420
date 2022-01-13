@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 
 # GITHUB STATUS.
 - ![Profile views](https://gpvc.arturio.dev/subhodip420)
-- [![GitHub followers](https://img.shields.io/github/followers/SUVODIP420.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/DRAJ48?tab=followers)
+- [![GitHub followers](https://img.shields.io/github/followers/subhodip420.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/DRAJ48?tab=followers)
 
 <p>
   <a href="https://github.comsubhodip420/handle-path-oz">
