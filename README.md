@@ -95,15 +95,13 @@ Here are some ideas to get you started:
 
 **Stats:**  
 
-
-hiiii
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?usernamesubhodip420&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=subhodip420 &show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhodip420&theme=tokyonight&hide=batchfile">
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?usernamesubhodip420 &theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=subhodip420 &show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhodip420 &theme=tokyonight&hide=batchfile">
 
 # GITHUB STATUS.
 - ![Profile views](https://gpvc.arturio.dev/subhodip420)
 - [![GitHub followers](https://img.shields.io/github/followers/subhodip420.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/draj48?tab=followers)
+
 
 <p>
   <a href="https://github.comsubhodip420/handle-path-oz">
