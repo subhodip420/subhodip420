@@ -102,13 +102,12 @@ Here are some ideas to get you started:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=subhodip420 &show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhodip420&theme=tokyonight&hide=batchfile">
 
 # GITHUB STATUS.
-# GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/SUVODIP420)
+- ![Profile views](https://gpvc.arturio.dev/subhodip420)
 - [![GitHub followers](https://img.shields.io/github/followers/SUVODIP420.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/DRAJ48?tab=followers)
 
 <p>
-  <a href="https://github.comdraj48/handle-path-oz">
-    <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=SUVODIP420" />
+  <a href="https://github.comsubhodip420/handle-path-oz">
+    <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=subhodip420" />
   </a>
 </p>
 <p align ="right">
@@ -128,4 +127,4 @@ Here are some ideas to get you started:
 </p>  
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SUVODIP420" alt="draj48" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SUVODIP420" alt="subhodip420" /></p>
