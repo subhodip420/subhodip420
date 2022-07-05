@@ -2,7 +2,7 @@
 
 ### Info
 ```python
-- 🎀 Myself - suvodip Chakraborty🇮🇳
+- 🎀 Myself - suvodip Chakraborty
 - ♥️ Age - 19
 - 🌠 current study in 1st year
 - 😛 From - India
